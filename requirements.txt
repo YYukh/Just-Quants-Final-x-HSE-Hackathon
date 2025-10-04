@@ -1,0 +1,17 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+scipy>=1.12
+joblib>=1.3
+pyyaml>=6.0
+
+torch>=2.0
+transformers>=4.30
+
+xgboost>=2.0
+optuna>=3.0
+
+tqdm>=4.60
+
+
+matplotlib>=3.8
